@@ -8,7 +8,8 @@
 	-- Inventory Controls --
 	[left click] Selects item or ability scroll
 				 Moves already selected item to equipment
-				 Deletes selected item when delete is double clicked						 Equips an ability scroll (select scroll then selected desired ability slot)
+				 Deletes selected item when delete is double clicked
+				 Equips an ability scroll (select scroll then selected desired ability slot)
 	[Scroll Wheel] Scrolls through items and scrolls
 [e] Pickup item when on item
 [r] Quaf potion
