@@ -1,5 +1,5 @@
 -- Controls --
-[Left Click] on tile, while no enemy is engaged, will queue a movment
+[Left Click] on tile, while no enemy is engaged, will queue a movement
 [Space] execute queued movement or ability
 [w,s,a,d] move/attack N S W E
 [z,x,c,v] move/attack NW NE SW SE
@@ -18,6 +18,14 @@
 	[Left Click] another variety to swap
 
 -- General Information --
+
+There is currently no unarmed weapon damage. Equip yourself!
+
+Ability Scrolls show UNMODIFIED values
+	for modified values see character sheet [q]
+
+Moving into an enemy will perform a default attack
+	see [q] for modified default attack values
 
 Item Rarities:
 	Normal(white): no affixes
