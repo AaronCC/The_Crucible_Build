@@ -1,0 +1,34 @@
+-- Controls --
+[Left Click] on tile, while no enemy is engaged, will queue a movment
+[Space] execute queued movement or ability
+[w,s,a,d] move/attack N S W E
+[z,x,c,v] move/attack NW NE SW SE
+[q] opens character screen
+[i] opens inventory
+	-- Inventory Controls --
+	[left click] Selects item or ability scroll
+				 Moves already selected item to equipment
+				 Deletes selected item when delete is double clicked						 Equips an ability scroll (select scroll then selected desired ability slot)
+	[Scroll Wheel] Scrolls through items and scrolls
+[e] Pickup item when on item
+[r] Quaf potion
+[f] descend to next dungeon level when on stairs
+	-- Consumables --
+	[Hover] over consumable HUD to expand consumable list (if you have multiple varieties)
+	[Left Click] another variety to swap
+
+-- General Information --
+
+Item Rarities:
+	Normal(white): no affixes
+	Magic(blue): up to 1 prefix, 1 suffix
+	Rare(gold): up to 3 prefix, 3 suffix
+	Uber(purple): up to 5 prefix, 5 suffix
+
+Attack: Linearly scales all damage types
+Defense: Linearly adds AR and elemental resistances
+Knowledge: Scales ability cooldowns
+Agility: Scales player speed and ability time cost
+
+AR: Metigates physical damage
+Resistance: Metigates respective elemental damage
