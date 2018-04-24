@@ -12,6 +12,7 @@
 				 Equips an ability scroll (select scroll then selected desired ability slot)
 	[Scroll Wheel] Scrolls through items and scrolls
 [e] Pickup item when on item
+[LAlt] Display information of loot at mouse location
 [r] Quaf potion
 [f] descend to next dungeon level when on stairs
 	-- Consumables --
