@@ -7,10 +7,11 @@
 [i] opens inventory
 	-- Inventory Controls --
 	[left click] Selects item or ability scroll
-				 Moves already selected item to equipment
-				 Deletes selected item when delete is double clicked
-				 Equips an ability scroll (select scroll then selected desired ability slot)
+	Moves already selected item to equipment
+	Deletes selected item when delete is double clicked
+	Equips an ability scroll (select scroll then selected desired ability slot)
 	[Scroll Wheel] Scrolls through items and scrolls
+[`] Game message screen
 [e] Pickup item when on item
 [LAlt] Display information of loot at mouse location
 [r] Quaf potion
@@ -36,9 +37,9 @@ Item Rarities:
 	Uber(purple): up to 5 prefix, 5 suffix
 
 Attack: Linearly scales all damage types
-Defense: Linearly adds AR and elemental resistances
+Defense: Linearly adds armor rating and elemental resistances
 Knowledge: Scales ability cooldowns
 Agility: Scales player speed and ability time cost
 
-AR: Metigates physical damage
+Armor Rating: Metigates physical damage
 Resistance: Metigates respective elemental damage
