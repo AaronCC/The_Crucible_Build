@@ -5,6 +5,7 @@
 [z,x,c,v] move/attack NW NE SW SE
 [Esc] close current interface
 [q] opens character screen
+[m] toggles mini-map
 [i] opens inventory
 	-- Inventory Controls --
 	[left click] Selects item or ability scroll
@@ -23,7 +24,7 @@
 
 -- General Information --
 
-There is currently no unarmed weapon damage. Equip yourself!
+You spawn with a weapon in your inventory, equip yourself!
 
 Ability Scrolls show UNMODIFIED values
 	for modified values see character sheet [q]
