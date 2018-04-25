@@ -3,6 +3,7 @@
 [Space] execute queued movement or ability
 [w,s,a,d] move/attack N S W E
 [z,x,c,v] move/attack NW NE SW SE
+[Esc] close current interface
 [q] opens character screen
 [i] opens inventory
 	-- Inventory Controls --
