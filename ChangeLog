@@ -1,0 +1,4 @@
+8f0c9de - A1.0.0
+  * Health shrines now spawn which heal the player to full life
+  * Enemy spawn algorithm improved
+  * Custom enemies may now have a damage multiplier (see media/enemies.txt)
