@@ -1,3 +1,6 @@
+-- SETUP --
+Download Alpha_Current.zip, extract, and run Crucible_Game.exe
+
 -- Controls --
 [Left Click] on tile, while no enemy is engaged, will queue a movement
 [Space] execute queued movement or ability
