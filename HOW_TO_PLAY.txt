@@ -4,6 +4,7 @@
 [w,s,a,d] move/attack N S W E
 [z,x,c,v] move/attack NW NE SW SE
 [Esc] close current interface
+[p] Mutes all sound
 [q] opens character screen
 [m] toggles mini-map
 [i] opens inventory
