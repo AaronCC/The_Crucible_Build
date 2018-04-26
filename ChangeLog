@@ -1,3 +1,5 @@
+73a6399 - A1.0.1
+  * New mod on items: bonus health (increases maximum health, does not alter current health value)
 8f0c9de - A1.0.0
   * Health shrines now spawn which heal the player to full life
   * Enemy spawn algorithm improved
