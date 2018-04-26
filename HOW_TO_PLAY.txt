@@ -28,6 +28,8 @@ Download Alpha_Current.zip, extract, and run Crucible_Game.exe
 
 -- General Information --
 
+Death is disabled in the current build
+
 You spawn with a weapon in your inventory, equip yourself!
 
 Ability Scrolls show UNMODIFIED values
