@@ -1,5 +1,4 @@
 # The_Crucible_Build
+[Change Log](ChangeLog)
 
-Alpha_Current.zip { ALPHA RELEASE BUILD } // DOWNLOAD & RUN .EXE
-
-Crucible_Game.zip { EARLY DEBUG BUILD } // IGNORE
+[How To Play](HOW_TO_PLAY.txt)
