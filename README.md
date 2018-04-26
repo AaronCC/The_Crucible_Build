@@ -2,4 +2,4 @@
 
 Alpha_Current.zip { ALPHA RELEASE BUILD } // DOWNLOAD & RUN .EXE
 
-Crucible_Game.zip { EARLY DEBUG BUILD } // IGNORE
+[Change Log](ChangeLog)
