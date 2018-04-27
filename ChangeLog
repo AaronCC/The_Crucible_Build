@@ -1,3 +1,6 @@
+5980619 - A1.0.2
+  * Fixed spawning issue causing crashes
+  * New font (currently causing kerning / spacing issues)
 73a6399 - A1.0.1
   * New mod on items: bonus health (increases maximum health, does not alter current health value)
 8f0c9de - A1.0.0
