@@ -1,3 +1,5 @@
+2889e9c - A1.0.4
+  * Added editor mode
 8db9fe7 - A1.0.3
   * Fixed text centering issue arising from new font
   * Fixed hovertext issue when hovering from loot to an occupied tile
